@@ -2,7 +2,7 @@
   "name": "trip-sorter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://trip-sorter-by-byzyk.herokuapp.com/",
+  "homepage": "https://debouche.herokuapp.com/",
   "dependencies": {
     "bootstrap": "3",
     "font-awesome": "^4.7.0",
